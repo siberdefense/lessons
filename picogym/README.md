@@ -1,3 +1,6 @@
 # PicoCTF PicoGym Guides
 
-Guides to introduce skills and concepts needed for success in PicoCTF challenges.
+Notes from reviewing PicoCTC PicoGym practice challenges to highlight skills and concepts needed for success.
+
+The intent is to use these notes to help organize and prepare instructional
+material for each topic.
