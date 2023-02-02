@@ -10,6 +10,7 @@ A link to a file is provided. The file contain the clear-text flag.
 
 ## Skills & concepts
 - Files and directories
-- Linux command line basics
+- Basic Linux command line
+  - Using `nano` to view and edit text files from the command line
+- Downloading a file from the web using the command line
 - Using `wget` or `curl` to download files at the command line
-- Using `nano` to view and edit text files from the command line
